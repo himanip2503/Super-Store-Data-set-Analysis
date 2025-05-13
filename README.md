@@ -62,7 +62,3 @@ This analysis demonstrates how Tableau can transform raw sales data into impactf
 
 ---
 
-## 📎 License
-
-This project is for academic and learning purposes only. All rights reserved by the authors and the University of Niagara Falls, Canada.
-
